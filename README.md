@@ -1,2 +1,2 @@
 # aula
-Material das aulas de Desenvolvimento de software
+Material das aulas de desenvolvimento de software
